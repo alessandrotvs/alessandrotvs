@@ -21,6 +21,7 @@
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img aling="center" alt="Ale-dotnet" height="50" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img aling="center" alt="Ale-dotnet" height="30" width="110" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=alessandrotvs&color=green" alt="alessandrotvs" />
 </div>
 
 ##
