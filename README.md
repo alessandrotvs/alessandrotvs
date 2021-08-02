@@ -33,5 +33,10 @@
   <a href="  <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://twitter.com/alessandrotvs"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   <a href="https://www.linkedin.com/in/alessandro-tadeu-santos"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-                                                                                                                     
+      
+      
+       ![Snake animation](https://github.com/alessandrotvs/alessandrotvs/blob/output/github-contribution-grid-snake.svg)
+      
 </div>
+
+
