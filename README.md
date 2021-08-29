@@ -1,4 +1,4 @@
-## Olá, sou o Alessandro! Muito Obrigado por visitar este Canal 👋
+## Olá, sou o Alessandro Santos! Muito Obrigado por visitar Meu conteúdo!! ⏲️ 👋 👏
 
 - 🔭Hoje trabalhando com Processos do ERP Totvs RM + SQL
 - 🌱 Estou estudando atualmente .Net Core & Azure
